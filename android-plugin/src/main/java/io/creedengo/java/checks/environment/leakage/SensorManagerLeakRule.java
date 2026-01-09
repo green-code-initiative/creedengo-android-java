@@ -27,7 +27,7 @@ import org.sonarsource.analyzer.commons.annotations.DeprecatedRuleKey;
  * @see OpeningClosingMethodCheck
  */
 @Rule(key = "EC514")
-@DeprecatedRuleKey(repositoryKey = "creedengo-java", ruleKey = "ELEA004")
+@DeprecatedRuleKey(repositoryKey = "ecocode-android-java", ruleKey = "ELEA004")
 public class SensorManagerLeakRule extends OpeningClosingMethodCheck {
 
     public SensorManagerLeakRule() {

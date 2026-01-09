@@ -27,7 +27,7 @@ import org.sonarsource.analyzer.commons.annotations.DeprecatedRuleKey;
  * @see OpeningClosingMethodCheck
  */
 @Rule(key = "EC503")
-@DeprecatedRuleKey(repositoryKey = "creedengo-java", ruleKey = "EBOT002")
+@DeprecatedRuleKey(repositoryKey = "ecocode-android-java", ruleKey = "EBOT002")
 public class WifiMulticastLockRule extends OpeningClosingMethodCheck {
     private static final String ERROR_MESSAGE = "Failing to call WifiManager.MulticastLock#release() can cause a noticeable battery drain.";
 

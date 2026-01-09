@@ -31,7 +31,7 @@ import java.util.List;
  * Checks also the call of "onPerformSync" & "getSyncAdapterBinder" from "android.content.AbstractThreadedSyncAdapter".
  */
 @Rule(key = "EC501")
-@DeprecatedRuleKey(repositoryKey = "creedengo-java", ruleKey = "EBAT003")
+@DeprecatedRuleKey(repositoryKey = "ecocode-android-java", ruleKey = "EBAT003")
 public class JobCoalesceRule extends IssuableSubscriptionVisitor {
 
 	private static final String ALARM_MANAGER_CLASS = "android.app.AlarmManager";

@@ -28,7 +28,7 @@ import java.util.List;
 import java.util.Optional;
 
 @Rule(key = "EC531")
-@DeprecatedRuleKey(repositoryKey = "creedengo-java", ruleKey = "ESOB014")
+@DeprecatedRuleKey(repositoryKey = "ecocode-android-java", ruleKey = "ESOB014")
 public class HighFrameRateRule extends IssuableSubscriptionVisitor {
 
     private static final float FRAME_RATE_60 = 60.0f;

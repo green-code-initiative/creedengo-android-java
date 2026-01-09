@@ -36,7 +36,7 @@ import java.util.List;
  */
 
 @Rule(key = "EC532")
-@DeprecatedRuleKey(repositoryKey = "creedengo-java", ruleKey = "SPRI002")
+@DeprecatedRuleKey(repositoryKey = "ecocode-android-java", ruleKey = "SPRI002")
 public class GoogleTrackerRule extends BaseTreeVisitor implements JavaFileScanner {
 
     private static final String ERROR_MESSAGE_GGL_TRACKER = "Using com.google.android.gms.analytics.* is a potential threat for privacy.";

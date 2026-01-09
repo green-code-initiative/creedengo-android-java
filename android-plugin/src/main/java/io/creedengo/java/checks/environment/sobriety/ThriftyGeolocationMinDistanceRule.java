@@ -37,7 +37,7 @@ import java.util.List;
  * If minDistance argument value is 0, report an issue on the argument.
  */
 @Rule(key = "EC527")
-@DeprecatedRuleKey(repositoryKey = "creedengo-java", ruleKey = "ESOB010")
+@DeprecatedRuleKey(repositoryKey = "ecocode-android-java", ruleKey = "ESOB010")
 public class ThriftyGeolocationMinDistanceRule extends IssuableSubscriptionVisitor {
     private static final String ERROR_MESSAGE = "Location updates should be done with a distance interval greater than 0.";
     private static final Logger LOG = Loggers.get(ThriftyGeolocationMinDistanceRule.class);

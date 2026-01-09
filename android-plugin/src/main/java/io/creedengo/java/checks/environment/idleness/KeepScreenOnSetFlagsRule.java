@@ -25,7 +25,7 @@ import org.sonarsource.analyzer.commons.annotations.DeprecatedRuleKey;
  * Check the call of "FLAG_KEEP_SCREEN_ON" on the method "setFlags" (both parameters) of "android.view.Window".
  */
 @Rule(key = "EC506")
-@DeprecatedRuleKey(repositoryKey = "creedengo-java", ruleKey = "EIDL002")
+@DeprecatedRuleKey(repositoryKey = "ecocode-android-java", ruleKey = "EIDL002")
 public class KeepScreenOnSetFlagsRule extends FlagOnMethodCheck {
 
     public KeepScreenOnSetFlagsRule() {

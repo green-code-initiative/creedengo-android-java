@@ -31,7 +31,7 @@ import java.util.List;
  * Check the call of "setSound", "setVibrate" & "setVibrationPattern" of "android.app.NotificationChannel" & "android.app.Notification$Builder".
  */
 @Rule(key = "EC529")
-@DeprecatedRuleKey(repositoryKey = "creedengo-java", ruleKey = "ESOB012")
+@DeprecatedRuleKey(repositoryKey = "ecocode-android-java", ruleKey = "ESOB012")
 public class ThriftyNotificationRule extends IssuableSubscriptionVisitor {
     private static final String ERROR_MESSAGE = "Avoid using vibration or sound when notifying the users to use less energy.";
     private final MethodMatchers notificationHardwareCallMethodMatchers = MethodMatchers.or(

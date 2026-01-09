@@ -30,7 +30,7 @@ import java.util.Optional;
  * "BRIGHTNESS_OVERRIDE_FULL" (1.0f).
  */
 @Rule(key = "EC522")
-@DeprecatedRuleKey(repositoryKey = "creedengo-java", ruleKey = "ESOB002")
+@DeprecatedRuleKey(repositoryKey = "ecocode-android-java", ruleKey = "ESOB002")
 public class BrightnessOverrideRule extends IssuableSubscriptionVisitor {
 
     private static final String ERROR_MESSAGE = "Forcing brightness to max value may cause useless energy consumption.";

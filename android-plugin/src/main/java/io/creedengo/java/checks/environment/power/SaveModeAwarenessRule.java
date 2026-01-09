@@ -34,7 +34,7 @@ import java.util.Optional;
  * Checks the use of the BATTERY_CHANGED propriety in intentFilter or the use of the isPowerSaveMode() method
  */
 @Rule(key = "EC520")
-@DeprecatedRuleKey(repositoryKey = "creedengo-java", ruleKey = "EPOW006")
+@DeprecatedRuleKey(repositoryKey = "ecocode-android-java", ruleKey = "EPOW006")
 public class SaveModeAwarenessRule extends IssuableSubscriptionVisitor {
     private static final Logger LOG = Loggers.get(SaveModeAwarenessRule.class);
 

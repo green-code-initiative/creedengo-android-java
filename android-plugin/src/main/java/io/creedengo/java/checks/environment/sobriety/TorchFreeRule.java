@@ -29,7 +29,7 @@ import java.util.Optional;
  * with the param 1 set to "true".
  */
 @Rule(key = "EC530")
-@DeprecatedRuleKey(repositoryKey = "creedengo-java", ruleKey = "ESOB013")
+@DeprecatedRuleKey(repositoryKey = "ecocode-android-java", ruleKey = "ESOB013")
 public class TorchFreeRule extends ArgumentValueOnMethodCheck {
 
     public TorchFreeRule() {

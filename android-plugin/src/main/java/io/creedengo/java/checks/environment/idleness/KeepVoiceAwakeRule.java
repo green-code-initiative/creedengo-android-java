@@ -40,7 +40,7 @@ import java.util.Optional;
  * Otherwise report an issue on the new class nodes.
  */
 @Rule(key = "EC511")
-@DeprecatedRuleKey(repositoryKey = "creedengo-java", ruleKey = "EIDL009")
+@DeprecatedRuleKey(repositoryKey = "ecocode-android-java", ruleKey = "EIDL009")
 public class KeepVoiceAwakeRule extends IssuableSubscriptionVisitor {
 
     private static final Logger LOG = Loggers.get(KeepVoiceAwakeRule.class);

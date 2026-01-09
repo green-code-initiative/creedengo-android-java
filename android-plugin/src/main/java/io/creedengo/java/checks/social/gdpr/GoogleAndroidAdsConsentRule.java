@@ -15,7 +15,7 @@ import org.sonarsource.analyzer.commons.annotations.DeprecatedRuleKey;
  * Hence, importing classes from com.google.android.ads.consent or com.google.android.ump:user-messaging-platform is considered as a good practice.
  */
 @Rule(key = "EC533", name = "GDPR: Google Consent")
-@DeprecatedRuleKey(repositoryKey = "creedengo-java", ruleKey = "SGDP001")
+@DeprecatedRuleKey(repositoryKey = "ecocode-android-java", ruleKey = "SGDP001")
 public class GoogleAndroidAdsConsentRule extends BaseTreeVisitor implements JavaFileScanner {
 
     private static final String INFO_MESSAGE_GOOGLE_ANDROID_ADS_CONSENT_USED = "Good Smell : User Consent";

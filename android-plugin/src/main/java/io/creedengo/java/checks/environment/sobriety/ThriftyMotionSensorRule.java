@@ -25,7 +25,7 @@ import org.sonarsource.analyzer.commons.annotations.DeprecatedRuleKey;
  * Check the call of "TYPE_ROTATION_VECTOR" on the method "getDefaultSensor" of "android.hardware.SensorManager".
  */
 @Rule(key = "EC521")
-@DeprecatedRuleKey(repositoryKey = "creedengo-java", ruleKey = "ESOB001")
+@DeprecatedRuleKey(repositoryKey = "ecocode-android-java", ruleKey = "ESOB001")
 public class ThriftyMotionSensorRule extends FlagOnMethodCheck {
 
     public ThriftyMotionSensorRule() {

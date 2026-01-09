@@ -26,7 +26,7 @@ import org.sonarsource.analyzer.commons.annotations.DeprecatedRuleKey;
  * it is called with a parameter value different from `CONNECTION_PRIORITY_LOW_POWER (2)`.
  */
 @Rule(key = "EC526")
-@DeprecatedRuleKey(repositoryKey = "creedengo-java", ruleKey = "ESOB008")
+@DeprecatedRuleKey(repositoryKey = "ecocode-android-java", ruleKey = "ESOB008")
 public class ThriftyBluetoothLowEnergyRequestConnectionPriorityRule extends ConstantOnMethodCheck {
 
     private static final int CONNECTION_PRIORITY_LOW_POWER = 2;

@@ -26,7 +26,7 @@ import org.sonarsource.analyzer.commons.annotations.DeprecatedRuleKey;
  * Reports an issue if found.
  */
 @Rule(key = "EC507")
-@DeprecatedRuleKey(repositoryKey = "creedengo-java", ruleKey = "EIDL004")
+@DeprecatedRuleKey(repositoryKey = "ecocode-android-java", ruleKey = "EIDL004")
 public class KeepCpuOnRule extends SpecificMethodCheck {
 
 

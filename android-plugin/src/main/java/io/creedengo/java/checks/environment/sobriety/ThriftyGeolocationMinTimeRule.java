@@ -37,7 +37,7 @@ import java.util.List;
  * If minTime argument value is 0, report an issue on the argument.
  */
 @Rule(key = "EC523")
-@DeprecatedRuleKey(repositoryKey = "creedengo-java", ruleKey = "ESOB005")
+@DeprecatedRuleKey(repositoryKey = "ecocode-android-java", ruleKey = "ESOB005")
 public class ThriftyGeolocationMinTimeRule extends IssuableSubscriptionVisitor {
 
     private static final String ERROR_MESSAGE = "Location updates should be done with a time greater than 0.";

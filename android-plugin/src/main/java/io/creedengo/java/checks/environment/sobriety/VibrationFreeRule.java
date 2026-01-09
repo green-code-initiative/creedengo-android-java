@@ -26,7 +26,7 @@ import org.sonarsource.analyzer.commons.annotations.DeprecatedRuleKey;
 import java.util.Optional;
 
 @Rule(key = "EC528")
-@DeprecatedRuleKey(repositoryKey = "creedengo-java", ruleKey = "ESOB011")
+@DeprecatedRuleKey(repositoryKey = "ecocode-android-java", ruleKey = "ESOB011")
 public class VibrationFreeRule extends ArgumentValueOnMethodCheck {
 
     private static final String SYSTEM_SERVICE_METHOD = "getSystemService";

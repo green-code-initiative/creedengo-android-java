@@ -31,7 +31,7 @@ import java.util.List;
  * Not thrown if openConnection() call is deported into an other method.
  */
 @Rule(key = "EC502")
-@DeprecatedRuleKey(repositoryKey = "creedengo-java", ruleKey = "EBOT001")
+@DeprecatedRuleKey(repositoryKey = "ecocode-android-java", ruleKey = "EBOT001")
 public class InternetInTheLoopRule extends IssuableSubscriptionVisitor {
 
     private static final String ERROR_MESSAGE = "Internet connection should not be opened in loops to preserve the battery.";

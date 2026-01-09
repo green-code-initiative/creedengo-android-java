@@ -24,7 +24,7 @@ import org.sonarsource.analyzer.commons.annotations.DeprecatedRuleKey;
 import org.w3c.dom.Node;
 
 @Rule(key = "EC549", name = "Hardware acceleration", priority = Priority.MAJOR)
-@DeprecatedRuleKey(repositoryKey = "creedengo-java", ruleKey = "ESOB016")
+@DeprecatedRuleKey(repositoryKey = "ecocode-android-java", ruleKey = "ESOB016")
 public class HardwareAccelerationXmlRule extends XPathSimpleCheck {
 
     private static final String ERROR_MESSAGE_ENABLED =

@@ -26,7 +26,7 @@ import org.sonarsource.analyzer.commons.annotations.DeprecatedRuleKey;
  * If argument value is "1" report issue.
  */
 @Rule(key = "EC510")
-@DeprecatedRuleKey(repositoryKey = "creedengo-java", ruleKey = "EIDL008")
+@DeprecatedRuleKey(repositoryKey = "ecocode-android-java", ruleKey = "EIDL008")
 public class ContinuousRenderingRule extends FlagOnMethodCheck {
 
     public ContinuousRenderingRule() {

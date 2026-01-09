@@ -29,7 +29,7 @@ import org.sonarsource.analyzer.commons.annotations.DeprecatedRuleKey;
  */
 
 @Rule(key = "EC534")
-@DeprecatedRuleKey(repositoryKey = "creedengo-java", ruleKey = "SPRI004")
+@DeprecatedRuleKey(repositoryKey = "ecocode-android-java", ruleKey = "SPRI004")
 public class TrackingIdRule extends SpecificMethodCheck {
 
     private static final String ERROR_MESSAGE = "Avoid using TelephonyManager#getDeviceId() due to privacy concerns.";

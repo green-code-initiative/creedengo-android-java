@@ -41,7 +41,7 @@ import org.sonarsource.analyzer.commons.annotations.DeprecatedRuleKey;
  * android.intent.action.BATTERY_OKAY` reports a (positive) issue.
  */
 @Rule(key = "EC519")
-@DeprecatedRuleKey(repositoryKey = "creedengo-java", ruleKey = "EPOW004")
+@DeprecatedRuleKey(repositoryKey = "ecocode-android-java", ruleKey = "EPOW004")
 public class ChargeAwarenessRule extends IssuableSubscriptionVisitor {
     private static final Logger LOG = Loggers.get(ChargeAwarenessRule.class);
 

@@ -26,7 +26,7 @@ import org.sonarsource.analyzer.commons.annotations.DeprecatedRuleKey;
  * it is called with parameter value different from `ADVERTISE_MODE_LOW_POWER (0)`.
  */
 @Rule(key = "EC525")
-@DeprecatedRuleKey(repositoryKey = "creedengo-java", ruleKey = "ESOB007")
+@DeprecatedRuleKey(repositoryKey = "ecocode-android-java", ruleKey = "ESOB007")
 public class ThriftyBluetoothLowEnergySetAdvertiseModeRule extends ConstantOnMethodCheck {
 
     private static final int CONSTANT_POWER_LOW = 0;

@@ -35,7 +35,7 @@ import java.util.Optional;
  * If it isn't present, report issue.
  */
 @Rule(key = "EC500")
-@DeprecatedRuleKey(repositoryKey = "creedengo-java", ruleKey = "EBAT002")
+@DeprecatedRuleKey(repositoryKey = "ecocode-android-java", ruleKey = "EBAT002")
 public class SensorCoalesceRule extends IssuableSubscriptionVisitor {
 
     private final MethodMatchers sensorListenerMethodMatcher = MethodMatchers.create().ofTypes("android.hardware.SensorManager").names("registerListener").withAnyParameters().build();
