@@ -7,9 +7,9 @@
 	<version>1.2.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
-	<name>Creedengo Android Sonar Plugins Project</name>
+	<name>Creedengo Android Java Sonar Plugins Project</name>
 	<description>Provides rules to reduce the environmental footprint of your Android applications</description>
-	<url>https://github.com/green-code-initiative/creedengo-android</url>
+	<url>https://github.com/green-code-initiative/creedengo-java-android</url>
 	<organization>
 		<name>Green Code Initiative</name>
 		<url>https://collectif.greenit.fr</url>
@@ -23,12 +23,12 @@
 	</licenses>
 	<issueManagement>
 		<system>GitHub</system>
-		<url>https://github.com/green-code-initiative/creedengo-android/issues</url>
+		<url>https://github.com/green-code-initiative/creedengo-java-android/issues</url>
 	</issueManagement>
 	<scm>
-		<connection>scm:git:https://github.com/green-code-initiative/creedengo-android</connection>
-		<developerConnection>scm:git:https://github.com/green-code-initiative/creedengo-android</developerConnection>
-		<url>https://github.com/green-code-initiative/creedengo-android</url>
+		<connection>scm:git:https://github.com/green-code-initiative/creedengo-java-android</connection>
+		<developerConnection>scm:git:https://github.com/green-code-initiative/creedengo-java-android</developerConnection>
+		<url>https://github.com/green-code-initiative/creedengo-java-android</url>
 		<tag>HEAD</tag>
 	</scm>
 
@@ -169,7 +169,7 @@
 					<version>4.1</version>
 					<configuration>
 						<properties>
-							<project.name>Creedengo Android plugin</project.name>
+							<project.name>Creedengo Android Java plugin</project.name>
 							<project.description>Provides rules to reduce the environmental footprint of your Android applications</project.description>
 							<email>contact@green-code-initiative.org</email>
 							<year>2020</year>

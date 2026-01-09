@@ -1,9 +1,9 @@
-Creedengo Android SonarQube plugin
+Creedengo Android Java SonarQube plugin
 ================================
 
 ![Logo Ekko](docs/ekko-sonar.png)
 
-Creedengo Android SonarQube plugin is an "eco-responsibility" static code analyzer for native Android projects written in Java (Kotlin unsupported yet). Its aim is to detect code smells to indicate weither the source code can be improved to reduce their environmental and social impact.
+Creedengo Android Java SonarQube plugin is an "eco-responsibility" static code analyzer for native Android projects written in Java (Kotlin unsupported yet). Its aim is to detect code smells to indicate weither the source code can be improved to reduce their environmental and social impact.
 
 Build and deploy the plugin
 ---------------------------
