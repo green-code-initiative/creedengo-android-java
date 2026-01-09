@@ -13,7 +13,7 @@ If you want to:
 * adjust rule metadata;
 * etc.
 
-Then, please reach us though our mail <contact@creedengo.io>, prior to submitting any code change.
+Then, please reach us though our mail <contact@green-code-initiative.org>, prior to submitting any code change.
 
 Thanks,
 *The Creedengo Team*

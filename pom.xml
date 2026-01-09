@@ -171,7 +171,7 @@
 						<properties>
 							<project.name>Creedengo Android plugin</project.name>
 							<project.description>Provides rules to reduce the environmental footprint of your Android applications</project.description>
-							<email>contact@creedengo.io</email>
+							<email>contact@green-code-initiative.org</email>
 							<year>2020</year>
 						</properties>
 						<licenseSets>

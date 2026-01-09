@@ -111,7 +111,7 @@ For Java rules:
 - Java rules’ code can be found in: [./src/main/java/io/creedengo/java](./src/main/java/io/creedengo/java)
 - Java rules’ definition can be found in: [./src/main/resources/org/sonar/l10n/java/rules/squid](./src/main/resources/org/sonar/l10n/java/rules/squid).
   Please do not add / or modify rules here since the code is generated. To update or add a rule, please reach us though our mail
-  <contact@creedengo.io>, prior to submitting any code change.
+  <contact@green-code-initiative.org>, prior to submitting any code change.
 - Java rules’ tests can be found in: [./src/test/java/io/creedengo/java](./src/test/java/io/creedengo/java). One file = one rule.
 
 For XML rules:
@@ -119,5 +119,5 @@ For XML rules:
 - XML rules’ code can be found in: [./src/main/java/io/creedengo/xml](./src/main/java/io/creedengo/xml)
 - XML rules’ definition can be found in: [./src/main/resources/io/creedengo/xml/rules](./src/main/resources/io/creedengo/xml/rules).
   Please do not add / or modifiy rules here since the code is generated. To update or add a rule, please reach us though our mail
-  <contact@creedengo.io>, prior to submitting any code change.
+  <contact@green-code-initiative.org>, prior to submitting any code change.
 - XML rules’ tests can be found in: [./src/test/java/io/creedengo/xml](./src/test/java/io/creedengo/xml). One file = one rule.

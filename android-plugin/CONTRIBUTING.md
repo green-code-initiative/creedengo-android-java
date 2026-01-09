@@ -4,7 +4,7 @@ Contributing Guidelines
 Contributions are welcome!
 
 **Before spending lots of time on something, ask for feedback on your idea first.**
-Contact us at <contact@creedengo.io> to be sure that we are interested with your contribution idea.
+Contact us at <contact@green-code-initiative.org> to be sure that we are interested with your contribution idea.
 
 To avoid frustration, please discuss before submitting any contributions.
 
