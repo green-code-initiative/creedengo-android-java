@@ -13,6 +13,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Deleted
 
+## [2.0.0] - 2026-01-09
+
+### Changed
+
+- Rebrand ecocode to creedengo across code, resources, build, and docs
+- Bump project version to 2.0.0
+
 ## [1.2.0] - 2026-01-04
 
 ### Added
@@ -107,7 +114,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - First official release of creedengo plugins : android plugin
 
-[unreleased]: https://github.com/green-code-initiative/Creedengo/compare/v1.2.0...HEAD
+[unreleased]: https://github.com/green-code-initiative/Creedengo/compare/v2.0.0...HEAD
+
+[2.0.0]: https://github.com/green-code-initiative/Creedengo/releases/tag/v2.0.0
 
 [1.2.0]: https://github.com/green-code-initiative/Creedengo/releases/tag/v1.2.0
 
