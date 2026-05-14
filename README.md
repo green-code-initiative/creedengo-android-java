@@ -46,7 +46,7 @@ Wait a little bit during first start initialization, and go to [http://localhost
 🛒 Distribution
 ---------------
 
-Ready to use binaries are available [from GitHub](https://github.com/green-code-initiative/creedengo-java-android/releases).
+Ready to use binaries are available [from GitHub](https://github.com/green-code-initiative/ecoCode-android/releases).
 
 🧩 Plugins version compatibility
 ------------------

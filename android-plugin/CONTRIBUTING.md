@@ -36,4 +36,4 @@ Choose a rule within the [table of unimplemented android-specific rules](RULES.m
 Before submitting an Android-specific SonarQube custom rule, please take a look at our [naming conventions](https://doc.rules.creedengo.io/#how-to-specify-rules). 
 
 ### Avoid doing things the hard way
-Idealy, take also a look at the [helpers fonctions](./src/main/java/io/creedengo/java/checks/helpers).
+Ideally, take also a look at the [helpers functions](./src/main/java/io/creedengo/java/checks/helpers).
