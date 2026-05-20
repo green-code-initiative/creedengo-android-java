@@ -11,11 +11,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+### Deleted
+
+## [2.0.0] - 2025-07-15
+
+### Added
+
+### Changed
+
 - Rebrand ecoCode to Creedengo across code, resources, build files, and docs
 - Update contact email to `contact@green-code-initiative.org`
 - Keep deprecated rule repository key as `ecocode-android-java` and `ecocode-android-xml`
 - Align profile names for Java/XML/Gradle and update Java/XML profile JSON names
 - Refine README rebranding wording and structure
+- Upgrade SonarQube API to 13.6.0
 
 ### Deleted
 
@@ -113,7 +122,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - First official release of ecocode plugins : android plugin
 
-[unreleased]: https://github.com/green-code-initiative/ecoCode-android/compare/v1.2.0...HEAD
+[unreleased]: https://github.com/green-code-initiative/creedengo-android/compare/v2.0.0...HEAD
+
+[2.0.0]: https://github.com/green-code-initiative/creedengo-android/releases/tag/v2.0.0
 
 [1.2.0]: https://github.com/green-code-initiative/ecoCode/releases/tag/v1.2.0
 
